@@ -1,0 +1,13 @@
+Screener	Articles_screened	Percentage_screened
+KN	2742	18.27%
+VA	3383	22.54%
+JJ	5473	36.46%
+RB	274	1.83%
+MI	0	0.00%
+DL	959	6.39%
+AM	2161	14.40%
+RZ	18	0.12%
+RR	0	0.00%
+AS	0	0.00%
+AA	0	0.00%
+SO	0	0.00%
