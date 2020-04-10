@@ -1,0 +1,237 @@
+[
+    {
+        "article_id": 2971,
+        "mistake_by": "DL",
+        "comment": "There is a deployment: FDDS consists of two parts: (1) a set of 20 TinyOS agents (running on the TelosB platform), which periodically send monitoring information, and (2) a central control server (running on the PC), which analyzes the data for hardware/network failures and their root causes. F"
+    },
+    {
+        "article_id": 2972,
+        "mistake_by": "JJ",
+        "comment": "there is a deployment: \"These five protocols were implemented on a testbed ofPowWow platforms\""
+    },
+    {
+        "article_id": 2973,
+        "mistake_by": "DL",
+        "comment": "There is deployment: In this section we develop a CoE receiver using off-theshelf hardware, and evaluate the model from Section III and its performance."
+    },
+    {
+        "article_id": 2974,
+        "mistake_by": "MI",
+        "comment": "There is a deployment, so the article should be moved to INCLUDED. "
+    },
+    {
+        "article_id": 2975,
+        "mistake_by": "KN",
+        "comment": "has a deployment"
+    },
+    {
+        "article_id": 2976,
+        "mistake_by": "JJ",
+        "comment": "There was deployment: In this study, deployment of a WSN formed by four sensor nodes was carried out at a potato farms in Hapur, for obtaining hourly temperature and hourly humidity observations. The aggregated sensor readings were used to compute the disease risk from various late  light \n disease forecasting models. "
+    },
+    {
+        "article_id": 2977,
+        "mistake_by": "RR",
+        "comment": "There was deployment"
+    },
+    {
+        "article_id": 2978,
+        "mistake_by": "RR",
+        "comment": "There was a small-scale deployment"
+    },
+    {
+        "article_id": 2979,
+        "mistake_by": "RR",
+        "comment": "There was deployment"
+    },
+    {
+        "article_id": 2981,
+        "mistake_by": "JJ",
+        "comment": "Experimental deployment and clusters Reference \"Berkeley MICAz motes\" but link to xbox?"
+    },
+    {
+        "article_id": 2980,
+        "mistake_by": "JJ",
+        "comment": "There is a deployment: The proposed approach is implemented alongside different cases of protocol stacks and evaluated on data collected from real-life deployments in rural and industrial environments."
+    },
+    {
+        "article_id": 2982,
+        "mistake_by": "JJ",
+        "comment": "There is deployment"
+    },
+    {
+        "article_id": 2983,
+        "mistake_by": "JJ",
+        "comment": "There is deployment"
+    },
+    {
+        "article_id": 2984,
+        "mistake_by": "JJ",
+        "comment": "There is deployment"
+    },
+    {
+        "article_id": 2985,
+        "mistake_by": "JJ",
+        "comment": "There is deployment"
+    },
+    {
+        "article_id": 2986,
+        "mistake_by": "JJ",
+        "comment": "There is deployment"
+    },
+    {
+        "article_id": 2987,
+        "mistake_by": "JJ",
+        "comment": "There's not only simulation, but also deployment"
+    },
+    {
+        "article_id": 2988,
+        "mistake_by": "RR",
+        "comment": "There's not only simulation, but also deployment: Thanks to the corporation of the owners of six tall buildings near Shinjuku Station, Tokyo, we could obtain the response data.\nIn this paper, we chose Kogakuin University building. It consists of 29 floors and the structure is Steel, partly SRC and RC. I\nused 4 sensors (Input: 1F, Output: 8F, 13F, 28F). "
+    },
+    {
+        "article_id": 2989,
+        "mistake_by": "RR",
+        "comment": "There is deployment"
+    },
+    {
+        "article_id": 2990,
+        "mistake_by": "RR",
+        "comment": "There is deployment"
+    },
+    {
+        "article_id": 2991,
+        "mistake_by": "JJ",
+        "comment": "There is deployment: This section evaluates the performance of LOD and compares it with B-MAC on a real test-bed, which consists of 100 TelosB sensor nodes as shown in Fig. 10."
+    },
+    {
+        "article_id": 2992,
+        "mistake_by": "JJ",
+        "comment": "There is deployment: Our\ncode runs successfully on both real motes and the TinyOS\nAvrora simulator. "
+    },
+    {
+        "article_id": 2993,
+        "mistake_by": "RR",
+        "comment": "There was deployment: see Section 7"
+    },
+    {
+        "article_id": 2994,
+        "mistake_by": "RR",
+        "comment": "There was deployment"
+    },
+    {
+        "article_id": 2995,
+        "mistake_by": "RR",
+        "comment": "There was deployment"
+    },
+    {
+        "article_id": 2996,
+        "mistake_by": "RR",
+        "comment": "There was deployment"
+    },
+    {
+        "article_id": 2997,
+        "mistake_by": "RR",
+        "comment": "There was deployment: The system has been deployed in Building 31 of King Saud University KSA."
+    },
+    {
+        "article_id": 2998,
+        "mistake_by": "RR",
+        "comment": "There was deployment"
+    },
+    {
+        "article_id": 2999,
+        "mistake_by": "JJ",
+        "comment": "There were two deployments"
+    },
+    {
+        "article_id": 3000,
+        "mistake_by": "RR",
+        "comment": "There was deployment"
+    },
+    {
+        "article_id": 3001,
+        "mistake_by": "DL",
+        "comment": "There was deployment"
+    },
+    {
+        "article_id": 3002,
+        "mistake_by": "RR",
+        "comment": "There was deployment: The proposed protocol has been implemented and tested on an IoT network with the same architecture as described in Fig. 2. "
+    },
+    {
+        "article_id": 3003,
+        "mistake_by": "RR",
+        "comment": "Deployment: \"measurements from real UV sensors, which consists of anintegrated nonvolatile processer [15], FeRAM and UV sensorpowered by solar cell\""
+    },
+    {
+        "article_id": 3004,
+        "mistake_by": "JJ",
+        "comment": "Deployment  lab prototype: \"he prototype consists of an Arduino board, wherein control and actuatorsrules are validated, connected to a Raspberry Pi device\""
+    },
+    {
+        "article_id": 3005,
+        "mistake_by": "JJ",
+        "comment": "has a deployment \"We have anchored our sensing platforms on top of tenpublic buses in Lausanne.\""
+    },
+    {
+        "article_id": 3006,
+        "mistake_by": "JJ",
+        "comment": "has a deployment"
+    },
+    {
+        "article_id": 3007,
+        "mistake_by": "DL",
+        "comment": "There was deployment The jitter-compensated VHT was implemented on the WandStem WSN node"
+    },
+    {
+        "article_id": 3008,
+        "mistake_by": "DL",
+        "comment": "There was deployment To ensure accuracy, multiple reference nodes are arranged on both sides of the roadway, forming a wireless network"
+    },
+    {
+        "article_id": 3009,
+        "mistake_by": "RR",
+        "comment": "There was deployment Zigbee wireless communication network composed of CC2530 chips manufactured by TI Corporation is selected for the experiment to realize the communication among the nodes. A605 laboratory is selected as the experiment location, wherein the size of the experiment area is 7mx7m, 64 beacon nodes (the distance between the reference nodes is 0.8m) and 4 transmitting nodes"
+    },
+    {
+        "article_id": 3010,
+        "mistake_by": "RR",
+        "comment": "There was deployment We deploy a sensor network of ZigBee TelosB nodes as our testbed."
+    },
+    {
+        "article_id": 3011,
+        "mistake_by": "DL",
+        "comment": "There was deployment a strong-motion sensor network, consisting of 26 unidirectional accelerometers and a digital recording system, was deployed on the bridge"
+    },
+    {
+        "article_id": 3012,
+        "mistake_by": "RB",
+        "comment": "There was deployment Laboratory environment, five PCs (connected with five nodes respectively) are 2.5m apart between each other"
+    },
+    {
+        "article_id": 3013,
+        "mistake_by": "RR",
+        "comment": "There was deployment The communication network is constituted of three types nodes of a coordinator, a router and an end device in using the ZigBee standard"
+    },
+    {
+        "article_id": 3014,
+        "mistake_by": "RR",
+        "comment": "There was deployment With up to 124 nodes deployed in the wild, this system provides us an excellent platform for validate the availability of this method. The sensor maintains the wireless communication modules CC2530 by Chipcon which is 2.4GHz IEEE 802.15.4 compliant transceiver and 3.2V supply voltage"
+    },
+    {
+        "article_id": 3015,
+        "mistake_by": "RR",
+        "comment": "There was deployment Underwater acoustic channels between a base station and two sensor nodes are shown in Fig. 7 as \uf0681 and \uf0682, respectively. These two channels are recorded during the field experiment in July, 2013 in Roubidoux Creek, Waynesville, MO"
+    },
+    {
+        "article_id": 3016,
+        "mistake_by": "DL",
+        "comment": "There was deployment The TinyOS implementation has enabled evaluating our solutions on many real-world platforms: from existing sensing platforms to new smart-gadget platforms. In particular, for the presented deployments, we chose eZ430 Chronos smart watches"
+    },
+    {
+        "article_id": 3017,
+        "mistake_by": "DL",
+        "comment": "There was deployment we would use CC2530 nodes to implement SDSN programmable sensor nodes"
+    }
+]
