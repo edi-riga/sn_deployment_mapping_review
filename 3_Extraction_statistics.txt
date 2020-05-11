@@ -1,13 +1,13 @@
-Screener	Total_articles_processed	Total_deployments_extracted	Not_sure_goal_deployment	Error_goal_deployment Total_goal_deployment_mistakes Goal_deployment_error_rate
-KN	231	253	0	0	0	0.00%
-VA	299	299	12	2	14	4.68%
-JJ	171	171	0	18	18	10.52%
-RB	4	4	0	0	0	0.00%
-MI	239	239	1	2	3	1.26%
-DL	297	297	1	15	16	5.39%
-AM	708	708	3	30	33	4.66%
-RZ	1	1	0	0	0	0.00%
-RR	471	471	5	1	6	1.27%
-AS	558	575	3	10	13	2.33%
-AA	10	10	1	0	1	10.00%
-SO	28	31	1	0	1	3.57%
+Screener	Total_articles_processed	Total_deployments_extracted	Not_sure_goal_deployment	Error_goal_deployment Total_goal_deployment_mistakes Goal_deployment_error_rate Other_Errors
+KN	231	262	0	1	1	0.00%	3
+VA	299	299	12	8	20	6.69%	7
+JJ	171	171	0	21	21	12.28%	0
+RB	4	4	0	1	1	25.00%	0
+MI	239	239	1	14	15	6.28%	4
+DL	297	297	1	18	17	5.72%	1
+AM	708	708	3	32	35	4.94%	0
+RZ	1	1	0	0	0	0.00%	0
+RR	471	471	5	6	11	2.34%	10
+AS	558	575	3	17	20	3.48%	6
+AA	10	10	1	2	3	30.00%	1
+SO	28	31	1	1	2	6.45%	1
