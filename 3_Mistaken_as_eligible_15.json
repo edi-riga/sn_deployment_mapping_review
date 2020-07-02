@@ -1,62 +1,77 @@
 {
     "279": {
         "related_article_id": 279,
-        "included_by": "DL"
+        "included_by": "DL",
+        "error_type": "simulation"
     },
     "674": {
         "related_article_id": 674,
-        "included_by": "AS"
+        "included_by": "AS",
+        "error_type": "existing data"
     },
     "818": {
         "related_article_id": 818,
-        "included_by": "AS"
+        "included_by": "AS",
+        "error_type": "no network"
     },
     "873": {
         "related_article_id": 873,
-        "included_by": "DL"
+        "included_by": "DL",
+        "error_type": "existing data"
     },
     "1136": {
         "related_article_id": 1136,
-        "included_by": "AS"
+        "included_by": "AS",
+        "error_type": "existing data"
     },
     "1301": {
         "related_article_id": 1301,
-        "included_by": "MI"
+        "included_by": "MI",
+        "error_type": "no deployment"
     },
     "1367": {
         "related_article_id": 1367,
-        "included_by": "AS"
+        "included_by": "AS",
+        "error_type": "existing data"
     },
     "1371": {
         "related_article_id": 1371,
-        "included_by": "AS"
+        "included_by": "AS",
+        "error_type": "no network"
     },
     "1524": {
         "related_article_id": 1524,
-        "included_by": "AS"
+        "included_by": "AS",
+        "error_type": "simulation"
     },
     "1826": {
         "related_article_id": 1826,
-        "included_by": "AS"
+        "included_by": "AS",
+        "error_type": "no deployment"
     },
     "2065": {
         "related_article_id": 2065,
-        "included_by": "AM"
+        "included_by": "AM",
+        "error_type": "no network"
     },
     "2101": {
         "related_article_id": 2101,
-        "included_by": "AA"
+        "included_by": "AA",
+        "error_type": "simulation"
     },
     "2180": {
         "related_article_id": 2180,
-        "included_by": "MI"
+        "included_by": "MI",
+        "error_type": "no network"
     },
     "2413": {
         "related_article_id": 2413,
-        "included_by": "AM"
+        "included_by": "AM",
+        "error_type": "existing data"
     },
     "2676": {
         "related_article_id": 2676,
-        "included_by": "AS"
+        "included_by": "AS",
+        "error_type": "no deployment"
     }
 }
