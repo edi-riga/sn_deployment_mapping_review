@@ -1,0 +1,16 @@
+2018-06-12	Candidate articles identified by querying indexing databases and merged to gain unique 15010 candidate articles
+2018-06-13	Screening for exclusion using titles and abstracts started
+2018-10-08	Screening ended and validation of unknown, doubtful articles begins
+2018-11-03	Completed screening validation, with the final result of 4915 articles left for next stage after exclusion of 10095 articles
+2018-11-04	Preparation of eligibility validation instruction and data codification/data extraction methodology
+2019-01-13	Personnell instructed on finished eligibility validation and data codification/extraction methodology
+2019-01-14	Data inclusion/eligibility and codified data extraction stage begins
+2019-09-16	Data inclusion/eligibility and codification stage complete with 2970 articles included and codified.
+2019-09-17	Verification begins of excluded articles begins.
+2019-12-02	Exclusion data verified, and 47 falsely excluded articles were identified leading to 3017 total articles eligible for extraction. Data extraction for these articles begins.
+2020-01-05	Extracted all data - extraction validation begins.
+2020-05-28	Extraction validation ended, 15 articles were identified as marked as eligible by mistake, leaving 3002 eligible articles. These contained a total of 3059 identified WSN deployments which were codified in the extraction step.
+2020-05-29	Data preparation for publication begins.
+2020-07-02	All data formatted for easy access and submitted to Git repository
+
+
