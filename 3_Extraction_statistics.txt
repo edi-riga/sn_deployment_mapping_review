@@ -1,4 +1,4 @@
-Screener	Total_articles_processed	Total_deployments_extracted	Not_sure_goal_deployment	Error_goal_deployment	Total_goal_deployment_mistakes	Goal_deployment_error_rate	Not_sure_other	Error_other	Total_other_mistakes	Other_error_rate
+Extractor	Total_articles_processed	Total_deployments_extracted	Not_sure_goal_deployment	Error_goal_deployment	Total_goal_deployment_mistakes	Goal_deployment_error_rate	Not_sure_other	Error_other	Total_other_mistakes	Other_error_rate
 KN	231	268	0	5	5	1.87%	4	5	9	3.36%
 VA	299	299	12	13	25	8.36%	5	10	15	5.02%
 JJ	171	171	0	29	29	16.96%	12	2	14	8.19%
