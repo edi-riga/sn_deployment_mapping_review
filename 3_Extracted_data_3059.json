@@ -51854,7 +51854,7 @@
     "3069": {
         "related_article_id": 114,
         "extracted_by": "KN",
-        "year": null,
+        "year": 2013,
         "has_goal_network": true,
         "goal_network": {
             "field": "Environment",
@@ -51873,7 +51873,7 @@
     "3070": {
         "related_article_id": 114,
         "extracted_by": "KN",
-        "year": null,
+        "year": 2013,
         "has_goal_network": true,
         "goal_network": {
             "field": "Environment",
